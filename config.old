@@ -1,0 +1,42 @@
+import ConfigParser, qpData
+
+#load config data from file
+config = ConfigParser.ConfigParser()
+config.read(qpData.inifile or 'MrRoboto.ini')
+
+#load inheritance
+if 'Inherit' in config.sections():
+    for i,inh in config.items('Inherit'):
+        config.read(inh)
+    config.read(qpData.inifile or 'MrRoboto.ini')
+
+#load settings to qpData where they belong
+settings = config.items('Settings')
+for name,value in settings:
+    setattr(qpData,name,value)
+if not hasattr(qpData,'difficulty'):
+    qpData.difficulty = '0'
+    
+qpData.userid = config.get(qpData.alias + 'Login','userid')
+qpData.passkey = config.get(qpData.alias + 'Login','passkey')
+
+#load admins
+admins = [a[1] for a in config.items('Admins')]
+qpData.admins = admins
+
+#load table settings
+tsettings = config.items('TableSettings')
+if not [n for n,v in tsettings if n == 'rating']:
+    if qpData.alias[:3] == 'Mrs':
+        tsettings.append(('rating','0'))
+    else:
+        tsettings.append(('rating','1'))
+qpData.tsettings = '&'.join([a + '=' + b for a,b in tsettings])
+qpData.boardtype = [v for n,v in tsettings if n == 'board'][0]
+
+#load language settings
+langitems = config.items('Language')
+langnamelen = len(qpData.lang)
+for name,value in langitems:
+    if name[:langnamelen] == qpData.lang:
+        setattr(qpData,name[langnamelen:],value)

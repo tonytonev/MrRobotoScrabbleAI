@@ -1,0 +1,2679 @@
+starting new thread with id -153
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+starting to think of patterns, length: 1
+starting new qpAction with id -153 and newStarted=False
+socksend with -153: R1L55-1535012
+
+running socket with -153
+reading: TJgreatnecker9
+
+###qpSock 40: -150 | TJgreatnecker9
+tableEvent with alias Roboto 150
+test coming
+alias: greatnecker
+running addUser with Roboto 150
+added greatnecker to table number 9
+running socket with -150
+reading: TJgreatnecker9
+
+###qpSock 40: -151 | TJgreatnecker9
+tableEvent with alias Roboto 151
+test coming
+alias: greatnecker
+running addUser with Roboto 151
+added greatnecker to table number 9
+running socket with -151
+reading: Tsgreatneckerboard=0&call=0&players=2&rating=1&time=2&info=
+
+###qpSock 40: -150 | Tsgreatneckerboard=0&call=0&players=2&rating=1&time=2&info=
+tableEvent with alias Roboto 150
+test coming
+alias: greatnecker
+running socket with -150
+reading: Tsgreatneckerboard=0&call=0&players=2&rating=1&time=2&info=
+
+###qpSock 40: -151 | Tsgreatneckerboard=0&call=0&players=2&rating=1&time=2&info=
+tableEvent with alias Roboto 151
+test coming
+alias: greatnecker
+running socket with -151
+reading: Tjkimneil
+
+###qpSock 40: -151 | Tjkimneil
+tableEvent with alias Roboto 151
+test coming
+alias: kimneil
+removing kimneil from table number 3
+checking 3 ... status 0
+removed kimneil from table number 3
+running socket with -151
+reading: Tjkimneil
+
+###qpSock 40: -150 | Tjkimneil
+tableEvent with alias Roboto 150
+test coming
+alias: kimneil
+removing kimneil from table number 3
+checking 3 ... status 0
+removed kimneil from table number 3
+running socket with -150
+920 patterns found
+playMove in qpAction
+socksend with -152: GWHHVIHEJHrKHBLHAMHLNHS
+
+running socket with -152
+reading: CmRoboto 152tYou are playing against a robot and NOT another person. If you prefer to play against a human being, close now by clicking Give up. If you close it now, the game will not count. Otherwise, enjoy your game and good luck!50
+TJgreatnecker9
+Tsgreatneckerboard=0&call=0&players=2&rating=1&time=2&info=
+Tjkimneil
+
+Chat:  m Roboto 152tYou are playing against a robot and NOT another person. If you prefer to play against a human being, close now by clicking Give up. If you close it now, the game will not count. Otherwise, enjoy your game and good luck!50
+tableEvent with alias Roboto 152
+test coming
+alias: greatnecker
+running addUser with Roboto 152
+added greatnecker to table number 9
+tableEvent with alias Roboto 152
+test coming
+alias: greatnecker
+tableEvent with alias Roboto 152
+test coming
+alias: kimneil
+removing kimneil from table number 3
+checking 3 ... status 0
+removed kimneil from table number 3
+running socket with -152
+reading: T-kimneil
+
+###qpSock 40: -152 | T-kimneil
+tableEvent with alias Roboto 152
+test coming
+alias: kimneil
+running socket with -152
+reading: T-kimneil
+
+###qpSock 40: -150 | T-kimneil
+tableEvent with alias Roboto 150
+test coming
+alias: kimneil
+running socket with -150
+reading: T-kimneil
+
+###qpSock 40: -151 | T-kimneil
+tableEvent with alias Roboto 151
+test coming
+alias: kimneil
+running socket with -151
+reading: 
+SUPPOSED TO START SAME -153
+local hour coming
+6
+starting new thread with id -153
+exit method running
+running exit in qpSock
+#########################closing socket!!!!!!!!!!!!!!!!!!!!!!!!!!
+..............................
+starting new qpAction with id -153 and newStarted=False
+socksend with -153: R1L55-1535012
+
+now popping thread with id -153
+running socket with -153
+reading: 
+SUPPOSED TO START SAME -153
+local hour coming
+6
+starting new thread with id -153
+exit method running
+running exit in qpSock
+#########################closing socket!!!!!!!!!!!!!!!!!!!!!!!!!!
+..............................
+starting new qpAction with id -153 and newStarted=False
+socksend with -153: R1L55-1535012
+
+now popping thread with id -153
+running socket with -153
+reading: TjGuest 219116
+
+###qpSock 40: -152 | TjGuest 219116
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 219116
+removing Guest 219116 from table number 4
+checking 4 ... status 2
+removed Guest 219116 from table number 4
+running socket with -152
+reading: TjGuest 219116
+
+###qpSock 40: -150 | TjGuest 219116
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 219116
+removing Guest 219116 from table number 59
+Guest 219116 not in table!
+running socket with -150
+reading: TjGuest 219116
+
+###qpSock 40: -151 | TjGuest 219116
+tableEvent with alias Roboto 151
+test coming
+alias: Guest 219116
+removing Guest 219116 from table number 4
+checking 4 ... status 2
+removed Guest 219116 from table number 4
+running socket with -151
+reading: GWMollySueAASACAADGINI
+
+###qpSock 40: -151 | GWMollySueAASACAADGINI
+Game: W MollySueAASACAADGINI
+running socket with -151
+reading: GN42
+
+###qpSock 40: -151 | GN42
+Game: N 42
+starting to think of patterns, length: 157
+reading: GWpapushkaCGDCIFCJICKNCLECMRCNSCTEURAL
+
+###qpSock 40: -150 | GWpapushkaCGDCIFCJICKNCLECMRCNSCTEURAL
+Game: W papushkaCGDCIFCJICKNCLECMRCNSCTEURAL
+running socket with -150
+reading: GN37
+
+###qpSock 40: -150 | GN37
+Game: N 37
+reading: OrpapushkaDEFINERS86ok
+
+###qpSock 40: -152 | OrpapushkaDEFINERS86ok
+running socket with -152
+starting to think of patterns, length: 86
+reading: WRoboto 153
+T+Roboto 153Roboto 153-15350001000100000-1
+
+Connected to quadplex server under username: Roboto 153
+tableEvent with alias Roboto 153
+test coming
+alias: Roboto 153
+running socket with -153
+reading: T+Roboto 153Roboto 153-15350001000100000-1
+
+###qpSock 40: -152 | T+Roboto 153Roboto 153-15350001000100000-1
+tableEvent with alias Roboto 152
+test coming
+alias: Roboto 153
+running socket with -152
+reading: TIGuest 17335535988576260247Guest 219123359875100000006Guest 204719359773791624024moms3598291727414921811945235warren13598801914769041333496610warren1washington,dcsharondid3598737562662006shildreth35974915981980856111860Saranac Lake, New Yorksonnysgirlalways3598461224247911311291572saramaine usaGuest 21911635987910231100-1greatnecker3596052518853757752727359papushka359856193830191032159539256lambchop3598432073261613021280341pinkbitz359877219213148883893718carlyaustraliaStinker Belle3598081871454341106715Guest 16014335987210000000-1Country Belle35982311391046438605315pphilbert3597531085421813142868362trace35988322631061062674308355tracealabamaiaddicot359868120614005038781913Phillippaaustraliamapleleaf3598622510652634912935100-1test_user35739810000000-1Guest 19930935985797920204MollySue3598224640189315453212758biguncle35988113832491261158-1wanderluster3598021119710265416291 californiafalalalala35985518975184245426814916DNiteshade35986697912525486842013MaryStafford Springs Ctsusie48359870165326211096149431-1bjay3598712903816214706240452-1Roboto 153-15350001000100000-1Guest 202394359755138513102124Roboto 152-1525000100010000057Roboto 151-1515000100010000058Roboto 150-1505000100010000056mummygoody35986715536491914292918Linda AustraliaGuest 216772359835911202016maggie2359886111894542711667865570warren1shildrethwarren1shildrethcall=0&board=0&players=2&rating=1&info=&time=211wanderlusterlambchopwanderlusterlambchopcall=0&board=1&players=2&rating=1&info=&time=112sonnysgirlalwayspphilbertsonnysgirlalwayspphilbertcall=0&board=0&players=2&rating=1&info=&time=213null04Guest 219116Guest 199309Guest 199309call=0&board=0&players=2&rating=1&info=&time=225momstracemomstracecall=0&board=0&players=2&rating=1&info=&time=216sharondidGuest 219123sharondidGuest 219123call=0&board=0&players=2&rating=1&info=Similar rating&time=117Guest 173355Guest 173355call=0&board=0&players=2&rating=1&info=&time=008null09greatneckergreatneckercall=0&board=0&players=2&rating=1&info=&time=2010null011null012null013DNiteshadeiaddicotDNiteshadeiaddicotcall=0&board=0&players=2&rating=1&info=&time=1114null015Stinker BelleCountry BelleStinker BelleCountry Bellecall=0&board=0&players=2&rating=1&info=&time=1116falalalalaGuest 216772falalalalaGuest 216772call=0&board=1&players=2&rating=1&info=&time=2117null018mummygoodypinkbitzmummygoodypinkbitzcall=0&board=0&players=2&rating=1&info=(waiting for a friend)&time=1119null020null021null022null023null024Guest 204719Guest 202394Guest 204719Guest 202394call=0&board=0&players=2&rating=0&info=&time=0125null026null027null028null029null030null031null032null033null034null035
+running socket with -153
+reading: null036null037null038null039null040null041null042null043null044null045null046null047null048null049null050null051null052null053null054null055null056Roboto 150papushkaRoboto 150papushkacall=0&board=0&players=2&rating=0&info=Want to play a robot?&time=1157Roboto 152maggie2Roboto 152maggie2call=0&board=0&players=2&rating=0&info=Want to play a robot?&time=1158Roboto 151MollySueRoboto 151MollySuecall=0&board=0&players=2&rating=0&info=Want to play a robot?&time=1159null0OP=1&GR=1
+
+###qpSock 40: -153 | TIGuest 17335535988576260247Guest 219123359875100000006Guest 204719359773791624024moms3598291727414921811945235warren13598801914769041333496610warren1washington,dcsharondid3598737562662006shildreth35974915981980856111860Saranac Lake, New Yorksonnysgirlalways3598461224247911311291572saramaine usaGuest 21911635987910231100-1greatnecker3596052518853757752727359papushka359856193830191032159539256lambchop3598432073261613021280341pinkbitz359877219213148883893718carlyaustraliaStinker Belle3598081871454341106715Guest 16014335987210000000-1Country Belle35982311391046438605315pphilbert3597531085421813142868362trace35988322631061062674308355tracealabamaiaddicot359868120614005038781913Phillippaaustraliamapleleaf3598622510652634912935100-1test_user35739810000000-1Guest 19930935985797920204MollySue3598224640189315453212758biguncle35988113832491261158-1wanderluster3598021119710265416291 californiafalalalala35985518975184245426814916DNiteshade35986697912525486842013MaryStafford Springs Ctsusie48359870165326211096149431-1bjay3598712903816214706240452-1Roboto 153-15350001000100000-1Guest 202394359755138513102124Roboto 152-1525000100010000057Roboto 151-1515000100010000058Roboto 150-1505000100010000056mummygoody35986715536491914292918Linda AustraliaGuest 216772359835911202016maggie2359886111894542711667865570warren1shildrethwarren1shildrethcall=0&board=0&players=2&rating=1&info=&time=211wanderlusterlambchopwanderlusterlambchopcall=0&board=1&players=2&rating=1&info=&time=112sonnysgirlalwayspphilbertsonnysgirlalwayspphilbertcall=0&board=0&players=2&rating=1&info=&time=213null04Guest 219116Guest 199309Guest 199309call=0&board=0&players=2&rating=1&info=&time=225momstracemomstracecall=0&board=0&players=2&rating=1&info=&time=216sharondidGuest 219123sharondidGuest 219123call=0&board=0&players=2&rating=1&info=Similar rating&time=117Guest 173355Guest 173355call=0&board=0&players=2&rating=1&info=&time=008null09greatneckergreatneckercall=0&board=0&players=2&rating=1&info=&time=2010null011null012null013DNiteshadeiaddicotDNiteshadeiaddicotcall=0&board=0&players=2&rating=1&info=&time=1114null015Stinker BelleCountry BelleStinker BelleCountry Bellecall=0&board=0&players=2&rating=1&info=&time=1116falalalalaGuest 216772falalalalaGuest 216772call=0&board=1&players=2&rating=1&info=&time=2117null018mummygoodypinkbitzmummygoodypinkbitzcall=0&board=0&players=2&rating=1&info=(waiting for a friend)&time=1119null020null021null022null023null024Guest 204719Guest 202394Guest 204719Guest 202394call=0&board=0&players=2&rating=0&info=&time=0125null026null027null028null029null030null031null032null033null034null035null036null037null038null039null040null041null042null043null044null045null046null047null048null049null050null051null052null053null054null055null056Roboto 150papushkaRoboto 150papushkacall=0&board=0&players=2&rating=0&info=Want to play a robot?&time=1157Roboto 152maggie2Roboto 152maggie2call=0&board=0&players=2&rating=0&info=Want to play a robot?&time=1158Roboto 151MollySueRoboto 151MollySuecall=0&board=0&players=2&rating=0&info=Want to play a robot?&time=1159null0OP=1&GR=1
+tableEvent with alias Roboto 153
+flag is I
+reading: GWRoboto 152HHVIHEJHrKHBLHAMHLNHSNYO SHW
+GN30
+
+Game: W Roboto 152HHVIHEJHrKHBLHAMHLNHSNYO SHW
+Game: doMove: letsUsed: V
+Game: doMove: letsUsed: E
+Game: doMove: letsUsed: r
+Game: doMove: letsUsed: B
+Game: doMove: letsUsed: A
+Game: doMove: letsUsed: L
+Game: doMove: letsUsed: S
+extending myRack
+Game: N 30
+running socket with -152
+looping tables... 0 ...qpAction.tables is now 0
+creating Table object with Roboto 153
+looping tables... 1 ...qpAction.tables is now 1
+creating Table object with Roboto 153
+looping tables... 2 ...qpAction.tables is now 2
+reading: OrRoboto 152VErBALS74ok
+
+###qpSock 40: -152 | OrRoboto 152VErBALS74ok
+running socket with -152
+creating Table object with Roboto 153
+looping tables... 3 ...qpAction.tables is now 3
+creating Table object with Roboto 153
+looping tables... 4 ...qpAction.tables is now 4
+creating Table object with Roboto 153
+looping tables... 5 ...qpAction.tables is now 5
+creating Table object with Roboto 153
+looping tables... 6 ...qpAction.tables is now 6
+creating Table object with Roboto 153
+looping tables... 7 ...qpAction.tables is now 7
+creating Table object with Roboto 153
+looping tables... 8 ...qpAction.tables is now 8
+creating Table object with Roboto 153
+looping tables... 9 ...qpAction.tables is now 9
+creating Table object with Roboto 153
+looping tables... 10 ...qpAction.tables is now 10
+creating Table object with Roboto 153
+looping tables... 11 ...qpAction.tables is now 11
+creating Table object with Roboto 153
+looping tables... 12 ...qpAction.tables is now 12
+creating Table object with Roboto 153
+looping tables... 13 ...qpAction.tables is now 13
+creating Table object with Roboto 153
+looping tables... 14 ...qpAction.tables is now 14
+creating Table object with Roboto 153
+looping tables... 15 ...qpAction.tables is now 15
+creating Table object with Roboto 153
+looping tables... 16 ...qpAction.tables is now 16
+creating Table object with Roboto 153
+looping tables... 17 ...qpAction.tables is now 17
+creating Table object with Roboto 153
+looping tables... 18 ...qpAction.tables is now 18
+creating Table object with Roboto 153
+looping tables... 19 ...qpAction.tables is now 19
+creating Table object with Roboto 153
+looping tables... 20 ...qpAction.tables is now 20
+creating Table object with Roboto 153
+looping tables... 21 ...qpAction.tables is now 21
+creating Table object with Roboto 153
+looping tables... 22 ...qpAction.tables is now 22
+creating Table object with Roboto 153
+looping tables... 23 ...qpAction.tables is now 23
+creating Table object with Roboto 153
+looping tables... 24 ...qpAction.tables is now 24
+creating Table object with Roboto 153
+looping tables... 25 ...qpAction.tables is now 25
+creating Table object with Roboto 153
+looping tables... 26 ...qpAction.tables is now 26
+creating Table object with Roboto 153
+looping tables... 27 ...qpAction.tables is now 27
+creating Table object with Roboto 153
+looping tables... 28 ...qpAction.tables is now 28
+creating Table object with Roboto 153
+looping tables... 29 ...qpAction.tables is now 29
+creating Table object with Roboto 153
+looping tables... 30 ...qpAction.tables is now 30
+creating Table object with Roboto 153
+looping tables... 31 ...qpAction.tables is now 31
+creating Table object with Roboto 153
+looping tables... 32 ...qpAction.tables is now 32
+creating Table object with Roboto 153
+looping tables... 33 ...qpAction.tables is now 33
+creating Table object with Roboto 153
+looping tables... 34 ...qpAction.tables is now 34
+creating Table object with Roboto 153
+looping tables... 35 ...qpAction.tables is now 35
+reading: T-Roboto 153
+
+###qpSock 40: -152 | T-Roboto 153
+tableEvent with alias Roboto 152
+test coming
+alias: Roboto 153
+running socket with -152
+reading: T+Roboto 153Roboto 153-15350001000100000-1
+
+###qpSock 40: -152 | T+Roboto 153Roboto 153-15350001000100000-1
+tableEvent with alias Roboto 152
+test coming
+alias: Roboto 153
+running socket with -152
+creating Table object with Roboto 153
+looping tables... 36 ...qpAction.tables is now 36
+creating Table object with Roboto 153
+looping tables... 37 ...qpAction.tables is now 37
+reading: T-Roboto 153
+
+###qpSock 40: -152 | T-Roboto 153
+tableEvent with alias Roboto 152
+test coming
+alias: Roboto 153
+running socket with -152
+creating Table object with Roboto 153
+looping tables... 38 ...qpAction.tables is now 38
+creating Table object with Roboto 153
+looping tables... 39 ...qpAction.tables is now 39
+creating Table object with Roboto 153
+looping tables... 40 ...qpAction.tables is now 40
+creating Table object with Roboto 153
+looping tables... 41 ...qpAction.tables is now 41
+creating Table object with Roboto 153
+looping tables... 42 ...qpAction.tables is now 42
+creating Table object with Roboto 153
+looping tables... 43 ...qpAction.tables is now 43
+creating Table object with Roboto 153
+looping tables... 44 ...qpAction.tables is now 44
+creating Table object with Roboto 153
+looping tables... 45 ...qpAction.tables is now 45
+creating Table object with Roboto 153
+looping tables... 46 ...qpAction.tables is now 46
+creating Table object with Roboto 153
+looping tables... 47 ...qpAction.tables is now 47
+creating Table object with Roboto 153
+looping tables... 48 ...qpAction.tables is now 48
+creating Table object with Roboto 153
+looping tables... 49 ...qpAction.tables is now 49
+creating Table object with Roboto 153
+looping tables... 50 ...qpAction.tables is now 50
+creating Table object with Roboto 153
+looping tables... 51 ...qpAction.tables is now 51
+creating Table object with Roboto 153
+looping tables... 52 ...qpAction.tables is now 52
+creating Table object with Roboto 153
+looping tables... 53 ...qpAction.tables is now 53
+creating Table object with Roboto 153
+looping tables... 54 ...qpAction.tables is now 54
+creating Table object with Roboto 153
+looping tables... 55 ...qpAction.tables is now 55
+creating Table object with Roboto 153
+looping tables... 56 ...qpAction.tables is now 56
+creating Table object with Roboto 153
+looping tables... 57 ...qpAction.tables is now 57
+creating Table object with Roboto 153
+looping tables... 58 ...qpAction.tables is now 58
+creating Table object with Roboto 153
+looping tables... 59 ...qpAction.tables is now 59
+creating Table object with Roboto 153
+freetable 59
+socksend with -153: TJ59
+
+socksend with -153: Tsboard=0&call=0&players=2&rating=0&time=1&info=Want to play a robot?
+
+running socket with -153
+reading: A11WELCOME!
+
+###qpSock 40: -153 | A11WELCOME!
+I have no idea wtf this messege is for: A11WELCOME!
+running socket with -153
+reading: TJGuest 2191168
+
+###qpSock 40: -152 | TJGuest 2191168
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 219116
+running addUser with Roboto 152
+added Guest 219116 to table number 8
+running socket with -152
+reading: TsGuest 219116board=0&call=0&players=2&rating=1&time=0&info=
+
+###qpSock 40: -152 | TsGuest 219116board=0&call=0&players=2&rating=1&time=0&info=
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 219116
+running socket with -152
+reading: TjGuest 199309
+
+###qpSock 40: -152 | TjGuest 199309
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 199309
+removing Guest 199309 from table number 4
+checking 4 ... status 0
+removed Guest 199309 from table number 4
+running socket with -152
+reading: T-Guest 219116
+
+###qpSock 40: -152 | T-Guest 219116
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 219116
+running socket with -152
+5901 patterns found
+reading: TEfalalalalafalalalala37342401Guest 21677253411001call=0&board=1&players=2&rating=1&time=2
+
+###qpSock 40: -152 | TEfalalalalafalalalala37342401Guest 21677253411001call=0&board=1&players=2&rating=1&time=2
+tableEvent with alias Roboto 152
+test coming
+alias: falalalala
+end game 16
+checking 16 ... status 2
+running socket with -152
+wtf?!
+PEELED DIDWEA 
+wtf?!
+PEELEr DIDWEA 
+playMove in qpAction
+socksend with -151: GWIAEJAAKADLAWMAINAnOAD
+
+reading: OrRoboto 151HEADWInD107ok
+
+###qpSock 40: -152 | OrRoboto 151HEADWInD107ok
+running socket with -152
+running socket with -151
+reading: OrpapushkaDEFINERS86ok
+T+Roboto 153Roboto 153-15350001000100000-1
+OrRoboto 152VErBALS74ok
+T-Roboto 153
+T+Roboto 153Roboto 153-15350001000100000-1
+T-Roboto 153
+TJGuest 2191168
+TsGuest 219116board=0&call=0&players=2&rating=1&time=0&info=
+TjGuest 199309
+T-Guest 219116
+TEfalalalalafalalalala37342401Guest 21677253411001call=0&board=1&players=2&rating=1&time=2
+GWRoboto 151IAEJAAKADLAWMAINAnOADO
+GN12
+OrRoboto 151HEADWInD107ok
+
+tableEvent with alias Roboto 151
+test coming
+alias: Roboto 153
+tableEvent with alias Roboto 151
+test coming
+alias: Roboto 153
+tableEvent with alias Roboto 151
+test coming
+alias: Roboto 153
+tableEvent with alias Roboto 151
+test coming
+alias: Roboto 153
+tableEvent with alias Roboto 151
+test coming
+alias: Guest 219116
+running addUser with Roboto 151
+added Guest 219116 to table number 8
+tableEvent with alias Roboto 151
+test coming
+alias: Guest 219116
+tableEvent with alias Roboto 151
+test coming
+alias: Guest 199309
+removing Guest 199309 from table number 4
+checking 4 ... status 0
+removed Guest 199309 from table number 4
+tableEvent with alias Roboto 151
+test coming
+alias: Guest 219116
+tableEvent with alias Roboto 151
+test coming
+alias: falalalala
+end game 16
+checking 16 ... status 2
+Game: W Roboto 151IAEJAAKADLAWMAINAnOADO
+Game: doMove: letsUsed: E
+Game: doMove: letsUsed: A
+Game: doMove: letsUsed: D
+Game: doMove: letsUsed: W
+Game: doMove: letsUsed: I
+Game: doMove: letsUsed: n
+Game: doMove: letsUsed: D
+extending myRack
+Game: N 12
+running socket with -151
+1065 patterns found
+playMove in qpAction
+socksend with -150: GWBFJBGO
+
+running socket with -150
+reading: OrpapushkaDEFINERS86ok
+T+Roboto 153Roboto 153-15350001000100000-1
+OrRoboto 152VErBALS74ok
+T-Roboto 153
+T+Roboto 153Roboto 153-15350001000100000-1
+T-Roboto 153
+TJGuest 2191168
+TsGuest 219116board=0&call=0&players=2&rating=1&time=0&info=
+TjGuest 199309
+T-Guest 219116
+TEfalalalalafalalalala37342401Guest 21677253411001call=0&board=1&players=2&rating=1&time=2
+OrRoboto 151HEADWInD107ok
+
+tableEvent with alias Roboto 150
+test coming
+alias: Roboto 153
+tableEvent with alias Roboto 150
+test coming
+alias: Roboto 153
+tableEvent with alias Roboto 150
+test coming
+alias: Roboto 153
+tableEvent with alias Roboto 150
+test coming
+alias: Roboto 153
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 219116
+running addUser with Roboto 150
+added Guest 219116 to table number 8
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 219116
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 199309
+removing Guest 199309 from table number 4
+checking 4 ... status 0
+removed Guest 199309 from table number 4
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 219116
+tableEvent with alias Roboto 150
+test coming
+alias: falalalala
+end game 16
+checking 16 ... status 2
+running socket with -150
+reading: GWRoboto 150BFJBGORI
+GN10
+
+Game: W Roboto 150BFJBGORI
+Game: doMove: letsUsed: J
+Game: doMove: letsUsed: O
+extending myRack
+Game: N 10
+running socket with -150
+reading: T+Guest 219116Guest 21911635988710231100-1
+
+###qpSock 40: -152 | T+Guest 219116Guest 21911635988710231100-1
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 219116
+running socket with -152
+reading: T+Guest 219116Guest 21911635988710231100-1
+
+###qpSock 40: -151 | T+Guest 219116Guest 21911635988710231100-1
+tableEvent with alias Roboto 151
+test coming
+alias: Guest 219116
+running socket with -151
+reading: T+Guest 219116Guest 21911635988710231100-1
+
+###qpSock 40: -150 | T+Guest 219116Guest 21911635988710231100-1
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 219116
+running socket with -150
+reading: OrshildrethMALIgNED85ok
+
+###qpSock 40: -152 | OrshildrethMALIgNED85ok
+running socket with -152
+reading: OrshildrethMALIgNED85ok
+
+###qpSock 40: -151 | OrshildrethMALIgNED85ok
+running socket with -151
+reading: OrshildrethMALIgNED85ok
+
+###qpSock 40: -150 | OrshildrethMALIgNED85ok
+running socket with -150
+reading: Tjfalalalala
+
+###qpSock 40: -152 | Tjfalalalala
+tableEvent with alias Roboto 152
+test coming
+alias: falalalala
+removing falalalala from table number 16
+checking 16 ... status 2
+removed falalalala from table number 16
+running socket with -152
+reading: Tjfalalalala
+
+###qpSock 40: -151 | Tjfalalalala
+tableEvent with alias Roboto 151
+test coming
+alias: falalalala
+removing falalalala from table number 16
+checking 16 ... status 2
+removed falalalala from table number 16
+running socket with -151
+reading: Tjfalalalala
+
+###qpSock 40: -150 | Tjfalalalala
+tableEvent with alias Roboto 150
+test coming
+alias: falalalala
+removing falalalala from table number 16
+checking 16 ... status 2
+removed falalalala from table number 16
+running socket with -150
+reading: TjGuest 216772
+
+###qpSock 40: -152 | TjGuest 216772
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 216772
+removing Guest 216772 from table number 16
+checking 16 ... status 0
+removed Guest 216772 from table number 16
+running socket with -152
+reading: TjGuest 216772
+
+###qpSock 40: -151 | TjGuest 216772
+tableEvent with alias Roboto 151
+test coming
+alias: Guest 216772
+removing Guest 216772 from table number 16
+checking 16 ... status 0
+removed Guest 216772 from table number 16
+running socket with -151
+reading: TjGuest 216772
+
+###qpSock 40: -150 | TjGuest 216772
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 216772
+removing Guest 216772 from table number 16
+checking 16 ... status 0
+removed Guest 216772 from table number 16
+running socket with -150
+reading: GWMollySueJBBKBO
+
+###qpSock 40: -151 | GWMollySueJBBKBO
+Game: W MollySueJBBKBO
+running socket with -151
+reading: GN10
+
+###qpSock 40: -151 | GN10
+Game: N 10
+starting to think of patterns, length: 185
+28 patterns found
+playMove in qpAction
+socksend with -151: GWLBO
+
+running socket with -151
+reading: GWRoboto 151LBO
+
+###qpSock 40: -151 | GWRoboto 151LBO
+Game: W Roboto 151LBO
+Game: doMove: letsUsed: O
+extending myRack
+running socket with -151
+reading: TERoboto 151Roboto 1513839001MollySue31732601call=0&board=0&players=2&rating=0&time=1
+
+###qpSock 40: -150 | TERoboto 151Roboto 1513839001MollySue31732601call=0&board=0&players=2&rating=0&time=1
+tableEvent with alias Roboto 150
+test coming
+alias: Roboto 151
+end game 58
+checking 58 ... status 2
+running socket with -150
+reading: GN2
+TERoboto 151Roboto 1513839001MollySue31732601call=0&board=0&players=2&rating=0&time=1
+
+Game: N 2
+tableEvent with alias Roboto 151
+test coming
+alias: Roboto 151
+end game 58
+checking 58 ... status 2
+socksend with -151: Tj
+
+reading: TERoboto 151Roboto 1513839001MollySue31732601call=0&board=0&players=2&rating=0&time=1
+
+###qpSock 40: -152 | TERoboto 151Roboto 1513839001MollySue31732601call=0&board=0&players=2&rating=0&time=1
+tableEvent with alias Roboto 152
+test coming
+alias: Roboto 151
+end game 58
+checking 58 ... status 2
+running socket with -152
+reading: TjRoboto 151
+
+###qpSock 40: -152 | TjRoboto 151
+tableEvent with alias Roboto 152
+test coming
+alias: Roboto 151
+removing Roboto 151 from table number 58
+checking 58 ... status 2
+removed Roboto 151 from table number 58
+running socket with -152
+reading: TjRoboto 151
+
+###qpSock 40: -150 | TjRoboto 151
+tableEvent with alias Roboto 150
+test coming
+alias: Roboto 151
+removing Roboto 151 from table number 58
+checking 58 ... status 2
+removed Roboto 151 from table number 58
+running socket with -150
+calling qpAction exit
+exit method running
+running exit in qpSock
+#########################closing socket!!!!!!!!!!!!!!!!!!!!!!!!!!
+..............................
+reading: T-Roboto 151
+
+###qpSock 40: -152 | T-Roboto 151
+tableEvent with alias Roboto 152
+test coming
+alias: Roboto 151
+running socket with -152
+reading: T-Roboto 151
+
+###qpSock 40: -150 | T-Roboto 151
+tableEvent with alias Roboto 150
+test coming
+alias: Roboto 151
+running socket with -150
+now popping thread with id -151
+reading: GWmaggie2IGBIIZSP
+
+###qpSock 40: -152 | GWmaggie2IGBIIZSP
+Game: W maggie2IGBIIZSP
+running socket with -152
+reading: GN23
+
+###qpSock 40: -152 | GN23
+Game: N 23
+starting to think of patterns, length: 10
+reading: T-falalalala
+
+###qpSock 40: -150 | T-falalalala
+tableEvent with alias Roboto 150
+test coming
+alias: falalalala
+running socket with -150
+reading: TjMollySue
+
+###qpSock 40: -150 | TjMollySue
+tableEvent with alias Roboto 150
+test coming
+alias: MollySue
+removing MollySue from table number 58
+checking 58 ... status 0
+removed MollySue from table number 58
+running socket with -150
+4177 patterns found
+playMove in qpAction
+socksend with -152: GWLINLJYLKHLLOLMW
+
+running socket with -152
+reading: T-falalalala
+TjMollySue
+
+tableEvent with alias Roboto 152
+test coming
+alias: falalalala
+tableEvent with alias Roboto 152
+test coming
+alias: MollySue
+removing MollySue from table number 58
+checking 58 ... status 0
+removed MollySue from table number 58
+running socket with -152
+reading: GWRoboto 152LINLJYLKHLLOLMWUEAAT
+
+###qpSock 40: -152 | GWRoboto 152LINLJYLKHLLOLMWUEAAT
+Game: W Roboto 152LINLJYLKHLLOLMWUEAAT
+Game: doMove: letsUsed: N
+Game: doMove: letsUsed: Y
+Game: doMove: letsUsed: H
+Game: doMove: letsUsed: O
+Game: doMove: letsUsed: W
+extending myRack
+running socket with -152
+reading: GN6
+
+###qpSock 40: -152 | GN6
+Game: N 6
+running socket with -152
+reading: T-Guest 216772
+
+###qpSock 40: -150 | T-Guest 216772
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 216772
+running socket with -150
+reading: T-Guest 216772
+
+###qpSock 40: -152 | T-Guest 216772
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 216772
+running socket with -152
+reading: T-MollySue
+
+###qpSock 40: -150 | T-MollySue
+tableEvent with alias Roboto 150
+test coming
+alias: MollySue
+running socket with -150
+reading: TJGuest 2191164
+
+###qpSock 40: -150 | TJGuest 2191164
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 219116
+running addUser with Roboto 150
+added Guest 219116 to table number 4
+running socket with -150
+reading: T-MollySue
+
+###qpSock 40: -152 | T-MollySue
+tableEvent with alias Roboto 152
+test coming
+alias: MollySue
+running socket with -152
+reading: TJGuest 2191164
+
+###qpSock 40: -152 | TJGuest 2191164
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 219116
+running addUser with Roboto 152
+added Guest 219116 to table number 4
+running socket with -152
+reading: TsGuest 219116board=0&call=0&players=2&rating=1&time=0&info=
+
+###qpSock 40: -152 | TsGuest 219116board=0&call=0&players=2&rating=1&time=0&info=
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 219116
+running socket with -152
+reading: TsGuest 219116board=0&call=0&players=2&rating=1&time=0&info=
+
+###qpSock 40: -150 | TsGuest 219116board=0&call=0&players=2&rating=1&time=0&info=
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 219116
+running socket with -150
+reading: GWmaggie2KLPA
+
+###qpSock 40: -152 | GWmaggie2KLPA
+Game: W maggie2KLPA
+running socket with -152
+reading: GN10
+
+###qpSock 40: -152 | GN10
+Game: N 10
+starting to think of patterns, length: 18
+reading: TrGuest 219116
+
+###qpSock 40: -150 | TrGuest 219116
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 219116
+Unknown Table: r Guest 219116
+running socket with -150
+8955 patterns found
+playMove in qpAction
+socksend with -152: GWKMAMMA
+
+running socket with -152
+reading: TrGuest 219116
+
+###qpSock 40: -152 | TrGuest 219116
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 219116
+Unknown Table: r Guest 219116
+running socket with -152
+reading: GWRoboto 152KMAMMANA
+
+###qpSock 40: -152 | GWRoboto 152KMAMMANA
+Game: W Roboto 152KMAMMANA
+Game: doMove: letsUsed: A
+Game: doMove: letsUsed: A
+extending myRack
+running socket with -152
+reading: GN6
+
+###qpSock 40: -152 | GN6
+Game: N 6
+running socket with -152
+reading: TsGuest 219116board=0&call=0&players=2&rating=1&time=2&info=
+
+###qpSock 40: -150 | TsGuest 219116board=0&call=0&players=2&rating=1&time=2&info=
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 219116
+running socket with -150
+reading: TsGuest 219116board=0&call=0&players=2&rating=1&time=2&info=
+
+###qpSock 40: -152 | TsGuest 219116board=0&call=0&players=2&rating=1&time=2&info=
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 219116
+running socket with -152
+reading: TEwarren1warren131637401shildreth21737601call=0&board=0&players=2&rating=1&time=2
+
+###qpSock 40: -150 | TEwarren1warren131637401shildreth21737601call=0&board=0&players=2&rating=1&time=2
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+end game 0
+checking 0 ... status 2
+running socket with -150
+reading: TEwarren1warren131637401shildreth21737601call=0&board=0&players=2&rating=1&time=2
+
+###qpSock 40: -152 | TEwarren1warren131637401shildreth21737601call=0&board=0&players=2&rating=1&time=2
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+end game 0
+checking 0 ... status 2
+running socket with -152
+reading: GWmaggie2MIAI
+
+###qpSock 40: -152 | GWmaggie2MIAI
+Game: W maggie2MIAI
+running socket with -152
+reading: GN5
+
+###qpSock 40: -152 | GN5
+Game: N 5
+starting to think of patterns, length: 20
+reading: GWpapushkaAGCAIUAJTAKELENO
+
+###qpSock 40: -150 | GWpapushkaAGCAIUAJTAKELENO
+Game: W papushkaAGCAIUAJTAKELENO
+running socket with -150
+reading: GN48
+
+###qpSock 40: -150 | GN48
+Game: N 48
+starting to think of patterns, length: 102
+494 patterns found
+playMove in qpAction
+socksend with -150: GWDDRDEIDFVDGE
+
+running socket with -150
+reading: Tjwarren1
+Tjshildreth
+
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+removing warren1 from table number 0
+checking 0 ... status 2
+removed warren1 from table number 0
+tableEvent with alias Roboto 150
+test coming
+alias: shildreth
+removing shildreth from table number 0
+checking 0 ... status 0
+removed shildreth from table number 0
+running socket with -150
+reading: GWRoboto 150DDRDEIDFVDGEIRKT
+GN8
+
+Game: W Roboto 150DDRDEIDFVDGEIRKT
+Game: doMove: letsUsed: R
+Game: doMove: letsUsed: I
+Game: doMove: letsUsed: V
+Game: doMove: letsUsed: E
+extending myRack
+Game: N 8
+running socket with -150
+reading: T-shildreth
+
+###qpSock 40: -150 | T-shildreth
+tableEvent with alias Roboto 150
+test coming
+alias: shildreth
+running socket with -150
+11620 patterns found
+playMove in qpAction
+socksend with -152: GWENUFNNGNSHNAINTJNEKNd
+
+running socket with -152
+reading: Tjwarren1
+Tjshildreth
+T-shildreth
+
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+removing warren1 from table number 0
+checking 0 ... status 2
+removed warren1 from table number 0
+tableEvent with alias Roboto 152
+test coming
+alias: shildreth
+removing shildreth from table number 0
+checking 0 ... status 0
+removed shildreth from table number 0
+tableEvent with alias Roboto 152
+test coming
+alias: shildreth
+running socket with -152
+reading: OrRoboto 152UNSATEd64ok
+
+###qpSock 40: -150 | OrRoboto 152UNSATEd64ok
+running socket with -150
+reading: GWRoboto 152ENUFNNGNSHNAINTJNEKNdEDIWIAM
+GN16
+OrRoboto 152UNSATEd64ok
+
+Game: W Roboto 152ENUFNNGNSHNAINTJNEKNdEDIWIAM
+Game: doMove: letsUsed: U
+Game: doMove: letsUsed: N
+Game: doMove: letsUsed: S
+Game: doMove: letsUsed: A
+Game: doMove: letsUsed: T
+Game: doMove: letsUsed: E
+Game: doMove: letsUsed: d
+extending myRack
+Game: N 16
+running socket with -152
+reading: TJwarren10
+
+###qpSock 40: -152 | TJwarren10
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+running addUser with Roboto 152
+added warren1 to table number 0
+running socket with -152
+reading: TJwarren10
+
+###qpSock 40: -150 | TJwarren10
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+running addUser with Roboto 150
+added warren1 to table number 0
+running socket with -150
+reading: Tswarren1board=0&call=0&players=2&rating=1&time=2&info=
+
+###qpSock 40: -150 | Tswarren1board=0&call=0&players=2&rating=1&time=2&info=
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+running socket with -150
+reading: Tswarren1board=0&call=0&players=2&rating=1&time=2&info=
+
+###qpSock 40: -152 | Tswarren1board=0&call=0&players=2&rating=1&time=2&info=
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+running socket with -152
+reading: GWmaggie2HMQHOTJT
+
+###qpSock 40: -152 | GWmaggie2HMQHOTJT
+Game: W maggie2HMQHOTJT
+running socket with -152
+reading: GN7
+
+###qpSock 40: -152 | GN7
+Game: N 7
+starting to think of patterns, length: 33
+reading: TJGuest 1993094
+
+###qpSock 40: -150 | TJGuest 1993094
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 199309
+running addUser with Roboto 150
+added Guest 199309 to table number 4
+running socket with -150
+815 patterns found
+playMove in qpAction
+socksend with -152: GWNFWNGINIENJD
+
+running socket with -152
+reading: TJGuest 1993094
+
+###qpSock 40: -152 | TJGuest 1993094
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 199309
+running addUser with Roboto 152
+added Guest 199309 to table number 4
+running socket with -152
+reading: GWRoboto 152NFWNGINIENJDNIRE
+
+###qpSock 40: -152 | GWRoboto 152NFWNGINIENJDNIRE
+Game: W Roboto 152NFWNGINIENJDNIRE
+Game: doMove: letsUsed: W
+Game: doMove: letsUsed: I
+Game: doMove: letsUsed: E
+Game: doMove: letsUsed: D
+extending myRack
+running socket with -152
+reading: GN2
+
+###qpSock 40: -152 | GN2
+Game: N 2
+running socket with -152
+reading: T+Guest 216273Guest 2162733598889223111-1
+
+###qpSock 40: -150 | T+Guest 216273Guest 2162733598889223111-1
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 216273
+running socket with -150
+reading: T+Guest 216273Guest 2162733598889223111-1
+
+###qpSock 40: -152 | T+Guest 216273Guest 2162733598889223111-1
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 216273
+running socket with -152
+reading: T-Guest 216273
+
+###qpSock 40: -150 | T-Guest 216273
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 216273
+running socket with -150
+reading: T-Guest 216273
+
+###qpSock 40: -152 | T-Guest 216273
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 216273
+running socket with -152
+reading: Tjwarren1
+
+###qpSock 40: -150 | Tjwarren1
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+removing warren1 from table number 0
+checking 0 ... status 0
+removed warren1 from table number 0
+running socket with -150
+reading: Tjwarren1
+
+###qpSock 40: -152 | Tjwarren1
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+removing warren1 from table number 0
+checking 0 ... status 0
+removed warren1 from table number 0
+running socket with -152
+reading: TJwarren19
+
+###qpSock 40: -150 | TJwarren19
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+running addUser with Roboto 150
+added warren1 to table number 9
+running socket with -150
+reading: TJwarren19
+
+###qpSock 40: -152 | TJwarren19
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+running addUser with Roboto 152
+added warren1 to table number 9
+running socket with -152
+reading: TjGuest 199309
+
+###qpSock 40: -150 | TjGuest 199309
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 199309
+removing Guest 199309 from table number 4
+checking 4 ... status 0
+removed Guest 199309 from table number 4
+running socket with -150
+reading: TjGuest 199309
+
+###qpSock 40: -152 | TjGuest 199309
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 199309
+removing Guest 199309 from table number 4
+checking 4 ... status 0
+removed Guest 199309 from table number 4
+running socket with -152
+reading: TJGuest 1993094
+
+###qpSock 40: -152 | TJGuest 1993094
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 199309
+running addUser with Roboto 152
+added Guest 199309 to table number 4
+running socket with -152
+reading: TJGuest 1993094
+
+###qpSock 40: -150 | TJGuest 1993094
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 199309
+running addUser with Roboto 150
+added Guest 199309 to table number 4
+running socket with -150
+reading: TQwarren1
+
+###qpSock 40: -150 | TQwarren1
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+queue warren1 to 9
+running socket with -150
+reading: TQwarren1
+
+###qpSock 40: -152 | TQwarren1
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+queue warren1 to 9
+running socket with -152
+reading: TQGuest 199309
+
+###qpSock 40: -150 | TQGuest 199309
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 199309
+queue Guest 199309 to 4
+running socket with -150
+reading: TQGuest 199309
+
+###qpSock 40: -152 | TQGuest 199309
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 199309
+queue Guest 199309 to 4
+running socket with -152
+reading: GWmaggie2MLPI
+
+###qpSock 40: -152 | GWmaggie2MLPI
+Game: W maggie2MLPI
+running socket with -152
+reading: GN18
+
+###qpSock 40: -152 | GN18
+Game: N 18
+starting to think of patterns, length: 38
+reading: TAGuest 219116Guest 199309
+
+###qpSock 40: -150 | TAGuest 219116Guest 199309
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 219116
+Guest 219116 accepts Guest 199309 to 4
+running socket with -150
+reading: T-susie48
+
+###qpSock 40: -150 | T-susie48
+tableEvent with alias Roboto 150
+test coming
+alias: susie48
+running socket with -150
+reading: TSGuest 219116
+
+###qpSock 40: -150 | TSGuest 219116
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 219116
+start game  4
+running socket with -150
+1029 patterns found
+playMove in qpAction
+socksend with -152: GWOAMOBAOCRODIOENOFE
+
+running socket with -152
+reading: TAGuest 219116Guest 199309
+T-susie48
+TSGuest 219116
+
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 219116
+Guest 219116 accepts Guest 199309 to 4
+tableEvent with alias Roboto 152
+test coming
+alias: susie48
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 219116
+start game  4
+running socket with -152
+reading: GWRoboto 152OAMOBAOCRODIOENOFERFMAUO
+
+###qpSock 40: -152 | GWRoboto 152OAMOBAOCRODIOENOFERFMAUO
+Game: W Roboto 152OAMOBAOCRODIOENOFERFMAUO
+Game: doMove: letsUsed: M
+Game: doMove: letsUsed: A
+Game: doMove: letsUsed: R
+Game: doMove: letsUsed: I
+Game: doMove: letsUsed: N
+Game: doMove: letsUsed: E
+extending myRack
+running socket with -152
+reading: GN2
+
+###qpSock 40: -152 | GN2
+Game: N 2
+running socket with -152
+reading: TEDNiteshadeDNiteshade43541701iaddicot79030801call=0&board=0&players=2&rating=1&time=1
+
+###qpSock 40: -150 | TEDNiteshadeDNiteshade43541701iaddicot79030801call=0&board=0&players=2&rating=1&time=1
+tableEvent with alias Roboto 150
+test coming
+alias: DNiteshade
+end game 13
+checking 13 ... status 2
+running socket with -150
+reading: TEDNiteshadeDNiteshade43541701iaddicot79030801call=0&board=0&players=2&rating=1&time=1
+
+###qpSock 40: -152 | TEDNiteshadeDNiteshade43541701iaddicot79030801call=0&board=0&players=2&rating=1&time=1
+tableEvent with alias Roboto 152
+test coming
+alias: DNiteshade
+end game 13
+checking 13 ... status 2
+running socket with -152
+reading: T-bjay
+
+###qpSock 40: -150 | T-bjay
+tableEvent with alias Roboto 150
+test coming
+alias: bjay
+running socket with -150
+reading: GWpapushkaEKRELOEMLENLEEGI
+
+###qpSock 40: -150 | GWpapushkaEKRELOEMLENLEEGI
+Game: W papushkaEKRELOEMLENLEEGI
+running socket with -150
+reading: GN34
+
+###qpSock 40: -150 | GN34
+Game: N 34
+starting to think of patterns, length: 123
+reading: T-bjay
+
+###qpSock 40: -152 | T-bjay
+tableEvent with alias Roboto 152
+test coming
+alias: bjay
+running socket with -152
+reading: T+susie48susie48359890165326211096149431-1
+
+###qpSock 40: -152 | T+susie48susie48359890165326211096149431-1
+tableEvent with alias Roboto 152
+test coming
+alias: susie48
+running socket with -152
+reading: GWmaggie2IMIL
+
+###qpSock 40: -152 | GWmaggie2IMIL
+Game: W maggie2IMIL
+running socket with -152
+reading: GN2
+
+###qpSock 40: -152 | GN2
+Game: N 2
+starting to think of patterns, length: 44
+903 patterns found
+playMove in qpAction
+socksend with -152: GWAOFBOOCORDOUEOM
+
+running socket with -152
+reading: T+bjaybjay3598892903816214706240452-1
+T-Guest 160143
+GWRoboto 152AOFBOOCORDOUEOMNEUNE
+GN2
+
+tableEvent with alias Roboto 152
+test coming
+alias: bjay
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 160143
+Game: W Roboto 152AOFBOOCORDOUEOMNEUNE
+Game: doMove: letsUsed: F
+Game: doMove: letsUsed: O
+Game: doMove: letsUsed: R
+Game: doMove: letsUsed: U
+Game: doMove: letsUsed: M
+extending myRack
+Game: N 2
+running socket with -152
+298 patterns found
+playMove in qpAction
+socksend with -150: GWDNIFNK
+
+running socket with -150
+reading: T+susie48susie48359890165326211096149431-1
+T+bjaybjay3598892903816214706240452-1
+T-Guest 160143
+GWRoboto 150DNIFNKPA
+GN6
+
+tableEvent with alias Roboto 150
+test coming
+alias: susie48
+tableEvent with alias Roboto 150
+test coming
+alias: bjay
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 160143
+Game: W Roboto 150DNIFNKPA
+Game: doMove: letsUsed: I
+Game: doMove: letsUsed: K
+extending myRack
+Game: N 6
+running socket with -150
+reading: Tjwarren1
+
+###qpSock 40: -152 | Tjwarren1
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+removing warren1 from table number 9
+checking 9 ... status 0
+removed warren1 from table number 9
+running socket with -152
+reading: Tjwarren1
+
+###qpSock 40: -150 | Tjwarren1
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+removing warren1 from table number 9
+checking 9 ... status 0
+removed warren1 from table number 9
+running socket with -150
+reading: TJwarren10
+
+###qpSock 40: -152 | TJwarren10
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+running addUser with Roboto 152
+added warren1 to table number 0
+running socket with -152
+reading: TJwarren10
+
+###qpSock 40: -150 | TJwarren10
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+running addUser with Roboto 150
+added warren1 to table number 0
+running socket with -150
+reading: Tswarren1board=0&call=0&players=2&rating=1&time=2&info=
+
+###qpSock 40: -152 | Tswarren1board=0&call=0&players=2&rating=1&time=2&info=
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+running socket with -152
+reading: Tswarren1board=0&call=0&players=2&rating=1&time=2&info=
+
+###qpSock 40: -150 | Tswarren1board=0&call=0&players=2&rating=1&time=2&info=
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+running socket with -150
+reading: T+Guest 160143Guest 16014335989110000000-1
+
+###qpSock 40: -152 | T+Guest 160143Guest 16014335989110000000-1
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 160143
+running socket with -152
+reading: T+Guest 160143Guest 16014335989110000000-1
+
+###qpSock 40: -150 | T+Guest 160143Guest 16014335989110000000-1
+tableEvent with alias Roboto 150
+test coming
+alias: Guest 160143
+running socket with -150
+reading: GWpapushkaFOAGOGHOEBOT
+
+###qpSock 40: -150 | GWpapushkaFOAGOGHOEBOT
+Game: W papushkaFOAGOGHOEBOT
+running socket with -150
+reading: GN10
+
+###qpSock 40: -150 | GN10
+Game: N 10
+starting to think of patterns, length: 130
+1278 patterns found
+playMove in qpAction
+socksend with -150: GWLLRNLUOLP
+
+running socket with -150
+reading: GWRoboto 150LLRNLUOLPNOG
+
+###qpSock 40: -150 | GWRoboto 150LLRNLUOLPNOG
+Game: W Roboto 150LLRNLUOLPNOG
+Game: doMove: letsUsed: R
+Game: doMove: letsUsed: U
+Game: doMove: letsUsed: P
+extending myRack
+running socket with -150
+reading: GN3
+
+###qpSock 40: -150 | GN3
+Game: N 3
+running socket with -150
+reading: GWmaggie2EMLFMIGO
+
+###qpSock 40: -152 | GWmaggie2EMLFMIGO
+Game: W maggie2EMLFMIGO
+running socket with -152
+reading: GN16
+
+###qpSock 40: -152 | GN16
+Game: N 16
+starting to think of patterns, length: 53
+393 patterns found
+playMove in qpAction
+socksend with -152: GWNAANBNNCE
+
+running socket with -152
+reading: GWRoboto 152NAANBNNCERED
+
+###qpSock 40: -152 | GWRoboto 152NAANBNNCERED
+Game: W Roboto 152NAANBNNCERED
+Game: doMove: letsUsed: A
+Game: doMove: letsUsed: N
+Game: doMove: letsUsed: E
+extending myRack
+running socket with -152
+reading: GN1
+
+###qpSock 40: -152 | GN1
+Game: N 1
+running socket with -152
+reading: GWpapushkaOMOONTOOEONO
+
+###qpSock 40: -150 | GWpapushkaOMOONTOOEONO
+Game: W papushkaOMOONTOOEONO
+running socket with -150
+reading: GN12
+
+###qpSock 40: -150 | GN12
+Game: N 12
+starting to think of patterns, length: 143
+reading: T-biguncle
+
+###qpSock 40: -152 | T-biguncle
+tableEvent with alias Roboto 152
+test coming
+alias: biguncle
+running socket with -152
+reading: GWmaggie2JIOJJGrOGGR
+
+###qpSock 40: -152 | GWmaggie2JIOJJGrOGGR
+Game: W maggie2JIOJJGrOGGR
+running socket with -152
+2505 patterns found
+playMove in qpAction
+socksend with -150: GWFMOGMG
+
+running socket with -150
+reading: T-biguncle
+GWRoboto 150FMOGMGI
+GN4
+
+tableEvent with alias Roboto 150
+test coming
+alias: biguncle
+Game: W Roboto 150FMOGMGI
+Game: doMove: letsUsed: O
+Game: doMove: letsUsed: G
+extending myRack
+Game: N 4
+running socket with -150
+reading: TJmapleleaf3
+
+###qpSock 40: -152 | TJmapleleaf3
+tableEvent with alias Roboto 152
+test coming
+alias: mapleleaf
+running addUser with Roboto 152
+added mapleleaf to table number 3
+running socket with -152
+reading: TJmapleleaf3
+
+###qpSock 40: -150 | TJmapleleaf3
+tableEvent with alias Roboto 150
+test coming
+alias: mapleleaf
+running addUser with Roboto 150
+added mapleleaf to table number 3
+running socket with -150
+reading: GWmaggie2JJGKJODC
+
+###qpSock 40: -152 | GWmaggie2JJGKJODC
+Game: W maggie2JJGKJODC
+running socket with -152
+reading: GN26
+
+###qpSock 40: -152 | GN26
+Game: N 26
+starting to think of patterns, length: 61
+843 patterns found
+playMove in qpAction
+socksend with -152: GWOJEOKNOLDOMUONROOE
+
+running socket with -152
+reading: GWRoboto 152OJEOKNOLDOMUONROOEEOAVRO
+
+###qpSock 40: -152 | GWRoboto 152OJEOKNOLDOMUONROOEEOAVRO
+Game: W Roboto 152OJEOKNOLDOMUONROOEEOAVRO
+Game: doMove: letsUsed: E
+Game: doMove: letsUsed: N
+Game: doMove: letsUsed: D
+Game: doMove: letsUsed: U
+Game: doMove: letsUsed: R
+Game: doMove: letsUsed: E
+extending myRack
+running socket with -152
+reading: GN1
+
+###qpSock 40: -152 | GN1
+Game: N 1
+running socket with -152
+reading: Tjiaddicot
+
+###qpSock 40: -150 | Tjiaddicot
+tableEvent with alias Roboto 150
+test coming
+alias: iaddicot
+removing iaddicot from table number 13
+checking 13 ... status 2
+removed iaddicot from table number 13
+running socket with -150
+reading: Tjiaddicot
+
+###qpSock 40: -152 | Tjiaddicot
+tableEvent with alias Roboto 152
+test coming
+alias: iaddicot
+removing iaddicot from table number 13
+checking 13 ... status 2
+removed iaddicot from table number 13
+running socket with -152
+reading: Tsmapleleafboard=0&call=0&players=2&rating=1&time=1&info=Similar rating
+
+###qpSock 40: -152 | Tsmapleleafboard=0&call=0&players=2&rating=1&time=1&info=Similar rating
+tableEvent with alias Roboto 152
+test coming
+alias: mapleleaf
+running socket with -152
+reading: Tsmapleleafboard=0&call=0&players=2&rating=1&time=1&info=Similar rating
+
+###qpSock 40: -150 | Tsmapleleafboard=0&call=0&players=2&rating=1&time=1&info=Similar rating
+tableEvent with alias Roboto 150
+test coming
+alias: mapleleaf
+running socket with -150
+reading: GWmaggie2ILCO
+
+###qpSock 40: -152 | GWmaggie2ILCO
+Game: W maggie2ILCO
+running socket with -152
+reading: GN9
+
+###qpSock 40: -152 | GN9
+Game: N 9
+starting to think of patterns, length: 79
+596 patterns found
+playMove in qpAction
+socksend with -152: GWBMOCMVDMO
+
+running socket with -152
+reading: GWRoboto 152BMOCMVDMOTFE
+
+###qpSock 40: -152 | GWRoboto 152BMOCMVDMOTFE
+Game: W Roboto 152BMOCMVDMOTFE
+Game: doMove: letsUsed: O
+Game: doMove: letsUsed: V
+Game: doMove: letsUsed: O
+extending myRack
+running socket with -152
+reading: GN1
+
+###qpSock 40: -152 | GN1
+Game: N 1
+running socket with -152
+reading: GWpapushkaLJNNJBNAR
+
+###qpSock 40: -150 | GWpapushkaLJNNJBNAR
+Game: W papushkaLJNNJBNAR
+running socket with -150
+reading: TJiaddicot8
+
+###qpSock 40: -150 | TJiaddicot8
+tableEvent with alias Roboto 150
+test coming
+alias: iaddicot
+running addUser with Roboto 150
+added iaddicot to table number 8
+running socket with -150
+reading: TJiaddicot8
+
+###qpSock 40: -152 | TJiaddicot8
+tableEvent with alias Roboto 152
+test coming
+alias: iaddicot
+running addUser with Roboto 152
+added iaddicot to table number 8
+running socket with -152
+reading: Tsiaddicotboard=0&call=0&players=2&rating=1&time=1&info=
+
+###qpSock 40: -152 | Tsiaddicotboard=0&call=0&players=2&rating=1&time=1&info=
+tableEvent with alias Roboto 152
+test coming
+alias: iaddicot
+running socket with -152
+reading: Tsiaddicotboard=0&call=0&players=2&rating=1&time=1&info=
+
+###qpSock 40: -150 | Tsiaddicotboard=0&call=0&players=2&rating=1&time=1&info=
+tableEvent with alias Roboto 150
+test coming
+alias: iaddicot
+running socket with -150
+reading: GWmaggie2NNONODLC
+
+###qpSock 40: -152 | GWmaggie2NNONODLC
+Game: W maggie2NNONODLC
+running socket with -152
+reading: GN17
+
+###qpSock 40: -152 | GN17
+Game: N 17
+starting to think of patterns, length: 88
+975 patterns found
+playMove in qpAction
+socksend with -152: GWMBAMCFMDIMERMFE
+
+running socket with -152
+reading: GWRoboto 152MBAMCFMDIMERMFEDOEIS
+
+###qpSock 40: -152 | GWRoboto 152MBAMCFMDIMERMFEDOEIS
+Game: W Roboto 152MBAMCFMDIMERMFEDOEIS
+Game: doMove: letsUsed: A
+Game: doMove: letsUsed: F
+Game: doMove: letsUsed: I
+Game: doMove: letsUsed: R
+Game: doMove: letsUsed: E
+extending myRack
+running socket with -152
+reading: GN1
+
+###qpSock 40: -152 | GN1
+Game: N 1
+running socket with -152
+reading: GWpapushkaJOIKON
+
+###qpSock 40: -150 | GWpapushkaJOIKON
+Game: W papushkaJOIKON
+running socket with -150
+reading: GN50
+
+###qpSock 40: -150 | GN50
+Game: N 50
+starting to think of patterns, length: 149
+691 patterns found
+reading: GWmaggie2BLCBNLCOLOEL
+
+###qpSock 40: -152 | GWmaggie2BLCBNLCOLOEL
+Game: W maggie2BLCBNLCOLOEL
+running socket with -152
+playMove in qpAction
+socksend with -150: GWNIINJN
+
+running socket with -150
+reading: GWRoboto 150NIINJN
+
+###qpSock 40: -150 | GWRoboto 150NIINJN
+Game: W Roboto 150NIINJN
+Game: doMove: letsUsed: I
+Game: doMove: letsUsed: N
+extending myRack
+running socket with -150
+reading: GN2
+
+###qpSock 40: -150 | GN2
+Game: N 2
+running socket with -150
+reading: T+~janet~~janet~359892260329011741113723-1
+
+###qpSock 40: -152 | T+~janet~~janet~359892260329011741113723-1
+tableEvent with alias Roboto 152
+test coming
+alias: ~janet~
+running socket with -152
+reading: T+~janet~~janet~359892260329011741113723-1
+
+###qpSock 40: -150 | T+~janet~~janet~359892260329011741113723-1
+tableEvent with alias Roboto 150
+test coming
+alias: ~janet~
+running socket with -150
+reading: Tjwarren1
+
+###qpSock 40: -152 | Tjwarren1
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+removing warren1 from table number 0
+checking 0 ... status 0
+removed warren1 from table number 0
+running socket with -152
+reading: Tjwarren1
+
+###qpSock 40: -150 | Tjwarren1
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+removing warren1 from table number 0
+checking 0 ... status 0
+removed warren1 from table number 0
+running socket with -150
+reading: TJwarren17
+
+###qpSock 40: -152 | TJwarren17
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+running addUser with Roboto 152
+added warren1 to table number 7
+running socket with -152
+reading: TJwarren17
+
+###qpSock 40: -150 | TJwarren17
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+running addUser with Roboto 150
+added warren1 to table number 7
+running socket with -150
+reading: TjDNiteshade
+
+###qpSock 40: -152 | TjDNiteshade
+tableEvent with alias Roboto 152
+test coming
+alias: DNiteshade
+removing DNiteshade from table number 13
+checking 13 ... status 0
+removed DNiteshade from table number 13
+running socket with -152
+reading: TjDNiteshade
+
+###qpSock 40: -150 | TjDNiteshade
+tableEvent with alias Roboto 150
+test coming
+alias: DNiteshade
+removing DNiteshade from table number 13
+checking 13 ... status 0
+removed DNiteshade from table number 13
+running socket with -150
+reading: Tjwarren1
+
+###qpSock 40: -152 | Tjwarren1
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+removing warren1 from table number 7
+checking 7 ... status 0
+removed warren1 from table number 7
+running socket with -152
+reading: Tjwarren1
+
+###qpSock 40: -150 | Tjwarren1
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+removing warren1 from table number 7
+checking 7 ... status 0
+removed warren1 from table number 7
+running socket with -150
+reading: Tjgreatnecker
+
+###qpSock 40: -152 | Tjgreatnecker
+tableEvent with alias Roboto 152
+test coming
+alias: greatnecker
+removing greatnecker from table number 9
+checking 9 ... status 0
+removed greatnecker from table number 9
+running socket with -152
+reading: Tjgreatnecker
+
+###qpSock 40: -150 | Tjgreatnecker
+tableEvent with alias Roboto 150
+test coming
+alias: greatnecker
+removing greatnecker from table number 9
+checking 9 ... status 0
+removed greatnecker from table number 9
+running socket with -150
+reading: TJwarren13
+
+###qpSock 40: -152 | TJwarren13
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+running addUser with Roboto 152
+added warren1 to table number 3
+running socket with -152
+reading: TJwarren13
+
+###qpSock 40: -150 | TJwarren13
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+running addUser with Roboto 150
+added warren1 to table number 3
+running socket with -150
+reading: TJgreatnecker9
+
+###qpSock 40: -152 | TJgreatnecker9
+tableEvent with alias Roboto 152
+test coming
+alias: greatnecker
+running addUser with Roboto 152
+added greatnecker to table number 9
+running socket with -152
+reading: TJgreatnecker9
+
+###qpSock 40: -150 | TJgreatnecker9
+tableEvent with alias Roboto 150
+test coming
+alias: greatnecker
+running addUser with Roboto 150
+added greatnecker to table number 9
+running socket with -150
+reading: GWmaggie2MNCL
+
+###qpSock 40: -152 | GWmaggie2MNCL
+Game: W maggie2MNCL
+running socket with -152
+reading: GN20
+
+###qpSock 40: -152 | GN20
+Game: N 20
+starting to think of patterns, length: 95
+reading: Tjwarren1
+
+###qpSock 40: -150 | Tjwarren1
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+removing warren1 from table number 3
+checking 3 ... status 0
+removed warren1 from table number 3
+running socket with -150
+reading: TJ~janet~3
+
+###qpSock 40: -150 | TJ~janet~3
+tableEvent with alias Roboto 150
+test coming
+alias: ~janet~
+running addUser with Roboto 150
+added ~janet~ to table number 3
+running socket with -150
+reading: GWpapushkaOGBOHOOINOJEUNE
+
+###qpSock 40: -150 | GWpapushkaOGBOHOOINOJEUNE
+Game: W papushkaOGBOHOOINOJEUNE
+running socket with -150
+reading: Tsgreatneckerboard=0&call=0&players=2&rating=1&time=2&info=
+
+###qpSock 40: -150 | Tsgreatneckerboard=0&call=0&players=2&rating=1&time=2&info=
+tableEvent with alias Roboto 150
+test coming
+alias: greatnecker
+running socket with -150
+949 patterns found
+playMove in qpAction
+socksend with -152: GWIOEJOD
+
+running socket with -152
+reading: Tjwarren1
+TJ~janet~3
+Tsgreatneckerboard=0&call=0&players=2&rating=1&time=2&info=
+
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+removing warren1 from table number 3
+checking 3 ... status 0
+removed warren1 from table number 3
+tableEvent with alias Roboto 152
+test coming
+alias: ~janet~
+running addUser with Roboto 152
+added ~janet~ to table number 3
+tableEvent with alias Roboto 152
+test coming
+alias: greatnecker
+running socket with -152
+reading: GWRoboto 152IOEJODHR
+GN2
+
+Game: W Roboto 152IOEJODHR
+Game: doMove: letsUsed: E
+Game: doMove: letsUsed: D
+extending myRack
+Game: N 2
+running socket with -152
+reading: OrCountry BelleCRADLED81ok
+
+###qpSock 40: -150 | OrCountry BelleCRADLED81ok
+running socket with -150
+reading: OrCountry BelleCRADLED81ok
+
+###qpSock 40: -152 | OrCountry BelleCRADLED81ok
+running socket with -152
+reading: GWpapushkaOGBOHOOIN
+
+###qpSock 40: -150 | GWpapushkaOGBOHOOIN
+Game: W papushkaOGBOHOOIN
+running socket with -150
+reading: GN15
+
+###qpSock 40: -150 | GN15
+Game: N 15
+starting to think of patterns, length: 162
+286 patterns found
+playMove in qpAction
+socksend with -150: GWDBADCR
+
+running socket with -150
+reading: GWRoboto 150DBADCR
+
+###qpSock 40: -150 | GWRoboto 150DBADCR
+Game: W Roboto 150DBADCR
+Game: doMove: letsUsed: A
+Game: doMove: letsUsed: R
+extending myRack
+running socket with -150
+reading: GN2
+
+###qpSock 40: -150 | GN2
+Game: N 2
+running socket with -150
+reading: Tj~janet~
+
+###qpSock 40: -152 | Tj~janet~
+tableEvent with alias Roboto 152
+test coming
+alias: ~janet~
+removing ~janet~ from table number 3
+checking 3 ... status 0
+removed ~janet~ from table number 3
+running socket with -152
+reading: Tj~janet~
+
+###qpSock 40: -150 | Tj~janet~
+tableEvent with alias Roboto 150
+test coming
+alias: ~janet~
+removing ~janet~ from table number 3
+checking 3 ... status 0
+removed ~janet~ from table number 3
+running socket with -150
+reading: Tjmapleleaf
+
+###qpSock 40: -152 | Tjmapleleaf
+tableEvent with alias Roboto 152
+test coming
+alias: mapleleaf
+removing mapleleaf from table number 3
+checking 3 ... status 0
+removed mapleleaf from table number 3
+running socket with -152
+reading: Tjmapleleaf
+
+###qpSock 40: -150 | Tjmapleleaf
+tableEvent with alias Roboto 150
+test coming
+alias: mapleleaf
+removing mapleleaf from table number 3
+checking 3 ... status 0
+removed mapleleaf from table number 3
+running socket with -150
+reading: TJ~janet~9
+
+###qpSock 40: -152 | TJ~janet~9
+tableEvent with alias Roboto 152
+test coming
+alias: ~janet~
+running addUser with Roboto 152
+added ~janet~ to table number 9
+running socket with -152
+reading: TJ~janet~9
+
+###qpSock 40: -150 | TJ~janet~9
+tableEvent with alias Roboto 150
+test coming
+alias: ~janet~
+running addUser with Roboto 150
+added ~janet~ to table number 9
+running socket with -150
+reading: TJmapleleaf0
+
+###qpSock 40: -152 | TJmapleleaf0
+tableEvent with alias Roboto 152
+test coming
+alias: mapleleaf
+running addUser with Roboto 152
+added mapleleaf to table number 0
+running socket with -152
+reading: TJmapleleaf0
+
+###qpSock 40: -150 | TJmapleleaf0
+tableEvent with alias Roboto 150
+test coming
+alias: mapleleaf
+running addUser with Roboto 150
+added mapleleaf to table number 0
+running socket with -150
+reading: Tsmapleleafboard=0&call=0&players=2&rating=1&time=1&info=Similar rating
+
+###qpSock 40: -150 | Tsmapleleafboard=0&call=0&players=2&rating=1&time=1&info=Similar rating
+tableEvent with alias Roboto 150
+test coming
+alias: mapleleaf
+running socket with -150
+reading: Tsmapleleafboard=0&call=0&players=2&rating=1&time=1&info=Similar rating
+
+###qpSock 40: -152 | Tsmapleleafboard=0&call=0&players=2&rating=1&time=1&info=Similar rating
+tableEvent with alias Roboto 152
+test coming
+alias: mapleleaf
+running socket with -152
+reading: GCmaggie2LLEG
+
+###qpSock 40: -152 | GCmaggie2LLEG
+Game: C maggie2LLEG
+qpHandle: going to run qpAction.game.swap()
+running swap in Game
+running socket with -152
+reading: GN9
+
+###qpSock 40: -152 | GN9
+Game: N 9
+starting to think of patterns, length: 95
+reading: TJwarren13
+
+###qpSock 40: -150 | TJwarren13
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+running addUser with Roboto 150
+added warren1 to table number 3
+running socket with -150
+reading: TQ~janet~
+
+###qpSock 40: -150 | TQ~janet~
+tableEvent with alias Roboto 150
+test coming
+alias: ~janet~
+queue ~janet~ to 9
+running socket with -150
+1530 patterns found
+playMove in qpAction
+socksend with -152: GWANOBNH
+
+running socket with -152
+reading: TJwarren13
+TQ~janet~
+GWRoboto 152ANOBNHOL
+GN1
+
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+running addUser with Roboto 152
+added warren1 to table number 3
+tableEvent with alias Roboto 152
+test coming
+alias: ~janet~
+queue ~janet~ to 9
+Game: W Roboto 152ANOBNHOL
+Game: doMove: letsUsed: O
+Game: doMove: letsUsed: H
+extending myRack
+Game: N 1
+running socket with -152
+reading: TAgreatnecker~janet~
+
+###qpSock 40: -150 | TAgreatnecker~janet~
+tableEvent with alias Roboto 150
+test coming
+alias: greatnecker
+greatnecker accepts ~janet~ to 9
+running socket with -150
+reading: TAgreatnecker~janet~
+
+###qpSock 40: -152 | TAgreatnecker~janet~
+tableEvent with alias Roboto 152
+test coming
+alias: greatnecker
+greatnecker accepts ~janet~ to 9
+running socket with -152
+reading: Tswarren1board=0&call=0&players=2&rating=1&time=2&info=
+
+###qpSock 40: -150 | Tswarren1board=0&call=0&players=2&rating=1&time=2&info=
+tableEvent with alias Roboto 150
+test coming
+alias: warren1
+running socket with -150
+reading: Tswarren1board=0&call=0&players=2&rating=1&time=2&info=
+
+###qpSock 40: -152 | Tswarren1board=0&call=0&players=2&rating=1&time=2&info=
+tableEvent with alias Roboto 152
+test coming
+alias: warren1
+running socket with -152
+reading: TSgreatnecker
+
+###qpSock 40: -150 | TSgreatnecker
+tableEvent with alias Roboto 150
+test coming
+alias: greatnecker
+start game  9
+running socket with -150
+reading: TSgreatnecker
+
+###qpSock 40: -152 | TSgreatnecker
+tableEvent with alias Roboto 152
+test coming
+alias: greatnecker
+start game  9
+running socket with -152
+reading: GWpapushkaHKOHLE
+
+###qpSock 40: -150 | GWpapushkaHKOHLE
+Game: W papushkaHKOHLE
+running socket with -150
+reading: GN8
+
+###qpSock 40: -150 | GN8
+Game: N 8
+starting to think of patterns, length: 175
+reading: TERoboto 150Roboto 1507543501papushka55335901call=0&board=0&players=2&rating=0&time=1
+
+###qpSock 40: -152 | TERoboto 150Roboto 1507543501papushka55335901call=0&board=0&players=2&rating=0&time=1
+tableEvent with alias Roboto 152
+test coming
+alias: Roboto 150
+end game 56
+checking 56 ... status 2
+running socket with -152
+reading: GWmaggie2DLGT
+
+###qpSock 40: -152 | GWmaggie2DLGT
+Game: W maggie2DLGT
+running socket with -152
+reading: GN4
+
+###qpSock 40: -152 | GN4
+Game: N 4
+starting to think of patterns, length: 100
+1088 patterns found
+playMove in qpAction
+socksend with -152: GWEKSELO
+
+running socket with -152
+reading: Tjpapushka
+GWRoboto 152EKSELOII
+GN2
+
+tableEvent with alias Roboto 152
+test coming
+alias: papushka
+removing papushka from table number 56
+checking 56 ... status 2
+removed papushka from table number 56
+Game: W Roboto 152EKSELOII
+Game: doMove: letsUsed: S
+Game: doMove: letsUsed: O
+extending myRack
+Game: N 2
+running socket with -152
+48 patterns found
+playMove in qpAction
+socksend with -150: GWCDTEDI
+
+running socket with -150
+reading: TERoboto 150Roboto 1507543501papushka55335901call=0&board=0&players=2&rating=0&time=1
+Tjpapushka
+
+tableEvent with alias Roboto 150
+test coming
+alias: Roboto 150
+end game 56
+checking 56 ... status 2
+socksend with -150: Tj
+
+calling qpAction exit
+exit method running
+running exit in qpSock
+tableEvent with alias Roboto 150
+test coming
+alias: papushka
+removing papushka from table number 56
+checking 56 ... status 2
+removed papushka from table number 56
+#########################closing socket!!!!!!!!!!!!!!!!!!!!!!!!!!
+..............................
+reading: TjRoboto 150
+
+###qpSock 40: -152 | TjRoboto 150
+tableEvent with alias Roboto 152
+test coming
+alias: Roboto 150
+removing Roboto 150 from table number 56
+checking 56 ... status 0
+removed Roboto 150 from table number 56
+running socket with -152
+reading: T-Roboto 150
+
+###qpSock 40: -152 | T-Roboto 150
+tableEvent with alias Roboto 152
+test coming
+alias: Roboto 150
+running socket with -152
+now popping thread with id -150
+reading: OrtraceTIMINGs70ok
+
+###qpSock 40: -152 | OrtraceTIMINGs70ok
+running socket with -152
+reading: TJpapushka0
+
+###qpSock 40: -152 | TJpapushka0
+tableEvent with alias Roboto 152
+test coming
+alias: papushka
+running addUser with Roboto 152
+added papushka to table number 0
+running socket with -152
+reading: GWmaggie2FLTX
+
+###qpSock 40: -152 | GWmaggie2FLTX
+Game: W maggie2FLTX
+running socket with -152
+reading: GN5
+
+###qpSock 40: -152 | GN5
+Game: N 5
+starting to think of patterns, length: 103
+283 patterns found
+playMove in qpAction
+socksend with -152: GWKCLLCI
+
+running socket with -152
+reading: GWRoboto 152KCLLCINR
+
+###qpSock 40: -152 | GWRoboto 152KCLLCINR
+Game: W Roboto 152KCLLCINR
+Game: doMove: letsUsed: L
+Game: doMove: letsUsed: I
+extending myRack
+running socket with -152
+reading: GN1
+
+###qpSock 40: -152 | GN1
+Game: N 1
+running socket with -152
+reading: Tjiaddicot
+
+###qpSock 40: -152 | Tjiaddicot
+tableEvent with alias Roboto 152
+test coming
+alias: iaddicot
+removing iaddicot from table number 8
+checking 8 ... status 0
+removed iaddicot from table number 8
+running socket with -152
+reading: TQpapushka
+
+###qpSock 40: -152 | TQpapushka
+tableEvent with alias Roboto 152
+test coming
+alias: papushka
+queue papushka to 0
+running socket with -152
+reading: TAmapleleafpapushka
+
+###qpSock 40: -152 | TAmapleleafpapushka
+tableEvent with alias Roboto 152
+test coming
+alias: mapleleaf
+mapleleaf accepts papushka to 0
+running socket with -152
+reading: TSmapleleaf
+
+###qpSock 40: -152 | TSmapleleaf
+tableEvent with alias Roboto 152
+test coming
+alias: mapleleaf
+start game  0
+running socket with -152
+reading: GCmaggie2XG
+
+###qpSock 40: -152 | GCmaggie2XG
+Game: C maggie2XG
+qpHandle: going to run qpAction.game.swap()
+running swap in Game
+running socket with -152
+reading: GN28
+
+###qpSock 40: -152 | GN28
+Game: N 28
+starting to think of patterns, length: 109
+309 patterns found
+playMove in qpAction
+socksend with -152: GWLORMOE
+
+running socket with -152
+reading: T+Guest 197136Guest 19713635989587117692-1
+
+###qpSock 40: -152 | T+Guest 197136Guest 19713635989587117692-1
+tableEvent with alias Roboto 152
+test coming
+alias: Guest 197136
+running socket with -152
+reading: GWRoboto 152LORMOEKU
+
+###qpSock 40: -152 | GWRoboto 152LORMOEKU
+Game: W Roboto 152LORMOEKU
+Game: doMove: letsUsed: R
+Game: doMove: letsUsed: E
+extending myRack
+running socket with -152
+reading: GN1
+
+###qpSock 40: -152 | GN1
+Game: N 1
+running socket with -152
+reading: GWmaggie2LBGGANAE
+
+###qpSock 40: -152 | GWmaggie2LBGGANAE
+Game: W maggie2LBGGANAE
+running socket with -152
+reading: GWmaggie2BLGGOHOA
+
+###qpSock 40: -152 | GWmaggie2BLGGOHOA
+Game: W maggie2BLGGOHOA
+running socket with -152
+reading: OrpinkbitzELIdING89ok
+
+###qpSock 40: -152 | OrpinkbitzELIdING89ok
+running socket with -152
+reading: TEsonnysgirlalwayssonnysgirlalways50030201pphilbert40922501call=0&board=0&players=2&rating=1&time=2
+
+###qpSock 40: -152 | TEsonnysgirlalwayssonnysgirlalways50030201pphilbert40922501call=0&board=0&players=2&rating=1&time=2
+tableEvent with alias Roboto 152
+test coming
+alias: sonnysgirlalways
+end game 2
+checking 2 ... status 2
+running socket with -152
+reading: T-iaddicot
+
+###qpSock 40: -152 | T-iaddicot
+tableEvent with alias Roboto 152
+test coming
+alias: iaddicot
+running socket with -152
+reading: GWmaggie2JDGKDILY
+
+###qpSock 40: -152 | GWmaggie2JDGKDILY
+Game: W maggie2JDGKDILY
+running socket with -152
+reading: GN64
+
+###qpSock 40: -152 | GN64
+Game: N 64
+starting to think of patterns, length: 119
+265 patterns found
+playMove in qpAction
+socksend with -152: GWJFKJGI
+
+running socket with -152
+reading: GWRoboto 152JFKJGIEA
+
+###qpSock 40: -152 | GWRoboto 152JFKJGIEA
+Game: W Roboto 152JFKJGIEA
+Game: doMove: letsUsed: K
+Game: doMove: letsUsed: I
+extending myRack
+running socket with -152
+reading: GN1
+
+###qpSock 40: -152 | GN1
+Game: N 1
+running socket with -152
+reading: Tjsonnysgirlalways
+
+###qpSock 40: -152 | Tjsonnysgirlalways
+tableEvent with alias Roboto 152
+test coming
+alias: sonnysgirlalways
+removing sonnysgirlalways from table number 2
+checking 2 ... status 2
+removed sonnysgirlalways from table number 2
+running socket with -152
+reading: T-sonnysgirlalways
+
+###qpSock 40: -152 | T-sonnysgirlalways
+tableEvent with alias Roboto 152
+test coming
+alias: sonnysgirlalways
+running socket with -152
+reading: Tjpphilbert
+
+###qpSock 40: -152 | Tjpphilbert
+tableEvent with alias Roboto 152
+test coming
+alias: pphilbert
+removing pphilbert from table number 2
+checking 2 ... status 0
+removed pphilbert from table number 2
+running socket with -152
+reading: T-pphilbert
+
+###qpSock 40: -152 | T-pphilbert
+tableEvent with alias Roboto 152
+test coming
+alias: pphilbert
+running socket with -152
+reading: GWmaggie2FOYFORUMYX
+
+###qpSock 40: -152 | GWmaggie2FOYFORUMYX
+Game: W maggie2FOYFORUMYX
+running socket with -152
+reading: GWmaggie2KETX
+
+###qpSock 40: -152 | GWmaggie2KETX
+Game: W maggie2KETX
+running socket with -152
+reading: GN32
+
+###qpSock 40: -152 | GN32
+Game: N 32
+starting to think of patterns, length: 124
+718 patterns found
+playMove in qpAction
+socksend with -152: GWMKA
+
+running socket with -152
+reading: Or~janet~ERECTeD73ok
+
+###qpSock 40: -152 | Or~janet~ERECTeD73ok
+running socket with -152
+reading: GWRoboto 152MKA
+
+###qpSock 40: -152 | GWRoboto 152MKA
+Game: W Roboto 152MKA
+Game: doMove: letsUsed: A
+extending myRack
+running socket with -152
+reading: GN1
+
+###qpSock 40: -152 | GN1
+Game: N 1
+running socket with -152
+reading: GPmaggie2
+
+###qpSock 40: -152 | GPmaggie2
+Game: P maggie2
+running socket with -152
+reading: GN21
+
+###qpSock 40: -152 | GN21
+Game: N 21
+starting to think of patterns, length: 124
+345 patterns found
+playMove in qpAction
+socksend with -152: GWKAUKBN
+
+running socket with -152
+reading: GWRoboto 152KAUKBN
+GN1
+
+Game: W Roboto 152KAUKBN
+Game: doMove: letsUsed: U
+Game: doMove: letsUsed: N
+extending myRack
+Game: N 1
+running socket with -152
+reading: GWmaggie2JATLAX
+
+###qpSock 40: -152 | GWmaggie2JATLAX
+Game: W maggie2JATLAX
+running socket with -152
+reading: GN8
+
+###qpSock 40: -152 | GN8
+Game: N 8
+starting to think of patterns, length: 137
+113 patterns found
+playMove in qpAction
+socksend with -152: GWAKTBKRCKIDKE
+
+running socket with -152
+reading: GWRoboto 152AKTBKRCKIDKE
+
+###qpSock 40: -152 | GWRoboto 152AKTBKRCKIDKE
+Game: W Roboto 152AKTBKRCKIDKE
+Game: doMove: letsUsed: T
+Game: doMove: letsUsed: R
+Game: doMove: letsUsed: I
+Game: doMove: letsUsed: E
+extending myRack
+running socket with -152
+reading: GN1
+TERoboto 152Roboto 1527951801maggie232417601call=0&board=0&players=2&rating=0&time=1
+
+Game: N 1
+tableEvent with alias Roboto 152
+test coming
+alias: Roboto 152
+end game 57
+checking 57 ... status 2
+socksend with -152: Tj
+
+calling qpAction exit
+exit method running
+running exit in qpSock
+#########################closing socket!!!!!!!!!!!!!!!!!!!!!!!!!!
+..............................
+now popping thread with id -152
